@@ -1,0 +1,108 @@
+{
+  "value": {
+    "results": [
+      {
+        "title": "How to Optimize Next.js Performance: An In-depth Guide | DebugBear",
+        "link": "https://www.debugbear.com/blog/nextjs-performance",
+        "snippet": "Mar 10, 2025 ... Next.js comes with powerful performance optimizations out of the box. While these built-in features provide a strong starting point, knowing how ...",
+        "displayLink": "www.debugbear.com",
+        "formattedUrl": "https://www.debugbear.com/blog/nextjs-performance",
+        "htmlSnippet": "Mar 10, 2025 <b>...</b> <b>Next.js</b> comes with powerful <b>performance optimizations</b> out of the box. While these built-in features provide a strong starting point, knowing how&nbsp;...",
+        "pagemap": {
+          "metatags": {
+            "title": "How to Optimize Next.js Performance: An In-depth Guide | DebugBear",
+            "description": "Find out why performance matters for your website, what common Next.js performance issues are, and what you can do to fix them.",
+            "image": "https://www.debugbear.com/dimg/2b0f94f4933a3f72ef0284bc204e943e.png",
+            "author": "",
+            "publishedTime": "2025-03-10T00:00:00.000Z",
+            "modifiedTime": "2025-12-09T10:18:31.000Z"
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1YuIB9XgrucKu3MYeMdTvW5JbAgY4zDQluraGwdiSunDVaTD1i8vyofI&s",
+            "width": "310",
+            "height": "163"
+          },
+          "image": "https://www.debugbear.com/dimg/2b0f94f4933a3f72ef0284bc204e943e.png"
+        },
+        "metadata": {},
+        "originalIndex": 5,
+        "normalizedUrl": "https://debugbear.com/blog/nextjs-performance",
+        "contentHash": "1100001000100000100000000000000011000010001000001000000000000000",
+        "titleTokens": [
+          "how",
+          "to",
+          "optimize",
+          "next",
+          "js",
+          "performance",
+          "an",
+          "in",
+          "depth",
+          "guide",
+          "debugbear"
+        ],
+        "deduplicationInfo": {
+          "originalUrl": "https://www.debugbear.com/blog/nextjs-performance",
+          "duplicateOf": 0,
+          "duplicateReasons": [
+            "Content similarity: 100.0%"
+          ],
+          "merged": true,
+          "alternateSnippets": [
+            "Sep 24, 2024 ... Optimize web performance in Next.js. Learn to improve Core Web Vitals with best practices for images, videos, fonts, lazy loading, and more.",
+            "Oct 26, 2023 ... Optimize your Next.js application for best performance and user experience ... js integrates with popular analytics and monitoring tools to help ...",
+            "Oct 17, 2025 ... js app improvements. Get Next.js Vercel Cost Optimization Guide. Learn real-life techniques to optimize the hosting costs of your Next.js apps.",
+            "Oct 15, 2023 ... ... help you improve your website's speed, performance ... Building Your Application: Optimizing. Optimize your Next.js application for best ...",
+            "What's inside? We've prepared 10 chapters filled with knowledge, key tips, real-life examples, and open-source libraries to help you make your Next.js app ...",
+            "Sep 21, 2022 ... performance tips and tricks in threejs, read this from a - z ... we have this running at Next.js Conf (when you check out the ticket ...",
+            "Jan 2, 2025 ... Key Techniques to Optimize Performance · 1.) Using The Next.js Image Component · 2.) Optimizing Third-Party Scripts with the Next. · 3.) Remove ...",
+            "Dec 20, 2022 ... Image optimization involves reducing the size of an image file. ... Code for a Livingnext.jsperformanceserver-side renderingcontributed.",
+            "Dec 26, 2024 ... Next.js does a lot of optimizations right out of the box, like tree-shaking and minification. Make sure these are not overriden for production."
+          ],
+          "alternateTitles": [
+            "Next.js Optimization Techniques",
+            "Building Your Application: Optimizing | Next.js",
+            "Next.js Performance Optimisation (2025): Get Started Fast",
+            "Optimize your Nextjs app. What I did to investigate the… | by Jun ...",
+            "The Expert Guide to Performance Optimization in Next.js 2025",
+            "How to optimize performance in Threejs? - Questions - three.js forum",
+            "How to Optimize Next.js Web Apps for Better Performance",
+            "Best practices to increase the speed for Next.js apps - Stack Overflow",
+            "Any useful Next.js library to improve performance, bundle size or ..."
+          ],
+          "alternateUrls": [
+            "https://strapi.io/blog/web-performance-optimization-in-nextjs",
+            "https://nextjs.org/docs/14/app/building-your-application/optimizing",
+            "https://pagepro.co/blog/nextjs-performance-optimization-in-9-steps/",
+            "https://medium.com/@jun55tsuno/optimize-your-nextjs-app-e4fe9718fc8a",
+            "https://blazity.com/the-expert-guide-to-nextjs-performance-optimization",
+            "https://discourse.threejs.org/t/how-to-optimize-performance-in-threejs/42769",
+            "https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/",
+            "https://stackoverflow.blog/2022/12/20/best-practices-to-increase-the-speed-for-next-js-apps/",
+            "https://www.reddit.com/r/nextjs/comments/1hmqu8q/any_useful_nextjs_library_to_improve_performance/"
+          ],
+          "mergedDuplicates": 9,
+          "duplicateUrls": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "totalDuplicatesFound": 9
+        }
+      }
+    ],
+    "stats": {
+      "originalCount": 10,
+      "finalCount": 1,
+      "duplicatesRemoved": 9,
+      "deduplicationRate": "90.0%"
+    }
+  },
+  "expiry": null
+}

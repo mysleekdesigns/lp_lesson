@@ -1,0 +1,102 @@
+{
+  "value": {
+    "results": [
+      {
+        "title": "Next.js Docs | Next.js",
+        "link": "https://nextjs.org/docs",
+        "snippet": "For the best experience when using a screen reader ... Stay updated on new releases and features, guides, and case studies. Subscribe. © 2026 Vercel, Inc.",
+        "displayLink": "nextjs.org",
+        "formattedUrl": "https://nextjs.org/docs",
+        "htmlSnippet": "For the <b>best</b> experience when using a screen reader ... Stay updated on new releases and features, guides, and case studies. Subscribe. © <b>2026</b> Vercel, Inc.",
+        "pagemap": {
+          "metatags": {
+            "title": "Next.js Docs | Next.js",
+            "description": "Welcome to the Next.js Documentation.",
+            "image": "https://nextjs.org/api/docs-og?title=Next.js%20Docs",
+            "author": "",
+            "publishedTime": "",
+            "modifiedTime": ""
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVkzVhUCl0FAaWB2zZuCLQ2Gl_t-v9xtc4RFq-AwfzlpT_QXUantH7u57&s",
+            "width": "311",
+            "height": "162"
+          },
+          "image": "https://nextjs.org/api/docs-og?title=Next.js%20Docs"
+        },
+        "metadata": {},
+        "originalIndex": 7,
+        "normalizedUrl": "https://nextjs.org/docs",
+        "contentHash": "1100011000000000101001000000000011000110000000001010010000000000",
+        "titleTokens": [
+          "next",
+          "js",
+          "docs",
+          "next",
+          "js"
+        ],
+        "deduplicationInfo": {
+          "originalUrl": "https://nextjs.org/docs",
+          "duplicateOf": 0,
+          "duplicateReasons": [
+            "Content similarity: 84.4%"
+          ],
+          "merged": true,
+          "alternateSnippets": [
+            "16 chapters that take you from React to Next.js. Chapter 1: Introduction. Dive into the course materials. Start Learning. React Foundations. New to React? Learn ...",
+            "Oct 21, 2025 ... Next.js 16 includes Cache Components, stable Turbopack, file system caching, React Compiler support, smarter routing, new caching APIs, ...",
+            "Jan 6, 2026 ... js 16+ includes MCP support that enables coding agents ... js Knowledge Base: Query comprehensive Next.js documentation and best practices ...",
+            "Dec 23, 2025 ... It is built with Next.js 16, React, TypeScript, and OpenAI. Again, the template includes pre-configured integrations and pre-built examples of ...",
+            "Dec 23, 2025 ... js 16, Angular, Vue, React, HTML, Laravel, and Figma, providing you ... This dashboard uses the latest tools and best practices in web ...",
+            "4 days ago ... js16 is created and used on the relevant questions, before nextjs16 and/or nextjs-16 can appear. ... It's a safe bet. Gimby. – Gimby. 2026-01-14 ...",
+            "Dec 1, 2025 ... js v15 for a few projects, and I see that v16.0.3 is out. Before upgrading, I'd love to get input from folks who have tried it. Questions I have ...",
+            "Jan 21, 2024 ... As a beginner its always confusing how to structure my project That includes Database related code Auth code Backend routes Fronted pages and components",
+            "Nov 3, 2025 ... The Verdict: Is It Worth Upgrading? After a week of building with Next.js 16 and Cache Components, here's my assessment: The Good. Finally, ..."
+          ],
+          "alternateTitles": [
+            "Learn Next.js | Next.js by Vercel - The React Framework",
+            "Next.js 16 | Next.js",
+            "Guides: Next.js MCP Server | Next.js",
+            "7+ Best AI Website Templates for 2026 - Agents, Chatbots, Starter Kits",
+            "21+ Best Next.js Admin Dashboard Templates - 2026",
+            "For my Next(.js) trick - Meta Stack Overflow",
+            "Is it time to upgrade to Next.js 16.0.3? Stable and worth it over v15 ...",
+            "Best/Pro scalable next js project folder structure or architecture : r ...",
+            "I Tried Next.js 16's use cache Directive: Here's What I Learned | by ..."
+          ],
+          "alternateUrls": [
+            "https://nextjs.org/learn",
+            "https://nextjs.org/blog/next-16",
+            "https://nextjs.org/docs/app/guides/mcp",
+            "https://nextjstemplates.com/blog/ai-website-templates",
+            "https://nextjstemplates.com/blog/admin-dashboard-templates",
+            "https://meta.stackoverflow.com/questions/437947/for-my-next-js-trick",
+            "https://www.reddit.com/r/nextjs/comments/1pbac61/is_it_time_to_upgrade_to_nextjs_1603_stable_and/",
+            "https://www.reddit.com/r/nextjs/comments/19c3kb9/bestpro_scalable_next_js_project_folder_structure/",
+            "https://javascript.plainenglish.io/i-tried-next-js-16s-use-cache-directive-here-s-what-i-learned-497f4fe43213"
+          ],
+          "mergedDuplicates": 9,
+          "duplicateUrls": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "totalDuplicatesFound": 9
+        }
+      }
+    ],
+    "stats": {
+      "originalCount": 10,
+      "finalCount": 1,
+      "duplicatesRemoved": 9,
+      "deduplicationRate": "90.0%"
+    }
+  },
+  "expiry": null
+}

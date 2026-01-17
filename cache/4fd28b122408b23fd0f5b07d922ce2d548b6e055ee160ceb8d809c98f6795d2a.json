@@ -1,0 +1,113 @@
+{
+  "value": {
+    "query": "shadcn ui components 2026 latest",
+    "expanded_queries": [
+      "shadcn ui components 2026 latest",
+      "shadcn ui component 2026 lat",
+      "shadcn ui component 2026 latest",
+      "shadcn ui components 2026 lat",
+      "\"shadcn ui components 2026 latest\""
+    ],
+    "results": [
+      {
+        "title": "Changelog - shadcn/ui",
+        "link": "https://ui.shadcn.com/docs/changelog",
+        "snippet": "Pick your component library, icons, base color, theme, fonts and create your own version of shadcn/ui. We're starting with 5 new visual styles, designed to help ...",
+        "displayLink": "ui.shadcn.com",
+        "formattedUrl": "https://ui.shadcn.com/docs/changelog",
+        "htmlSnippet": "Pick your <b>component</b> library, icons, base color, theme, fonts and create your own version of <b>shadcn</b>/<b>ui</b>. We&#39;re starting with 5 <b>new</b> visual styles, designed to help&nbsp;...",
+        "pagemap": {
+          "metatags": {
+            "title": "Changelog",
+            "description": "Latest updates and announcements.",
+            "image": "https://ui.shadcn.com/og?title=Changelog&description=Latest%20updates%20and%20announcements.",
+            "author": "shadcn",
+            "publishedTime": "",
+            "modifiedTime": ""
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3zJEbyIdcg_DWPFGHh3KGYhbNQgKL_csviak_14hrNVra3ZzUD2K6AbTt&s",
+            "width": "311",
+            "height": "162"
+          },
+          "image": "https://ui.shadcn.com/og?title=Changelog&description=Latest%20updates%20and%20announcements."
+        },
+        "metadata": {},
+        "originalIndex": 2,
+        "normalizedUrl": "https://ui.shadcn.com/docs/changelog",
+        "contentHash": "0100011100100000000000000000000001000111001000000000000000000000",
+        "titleTokens": [
+          "changelog",
+          "shadcn",
+          "ui"
+        ]
+      }
+    ],
+    "total_results": "132000",
+    "search_time": 0.268389,
+    "offset": 0,
+    "limit": 10,
+    "cached": false,
+    "provider": {
+      "name": "crawlforge",
+      "backend": "Google Search",
+      "capabilities": {
+        "requiresApiKey": true,
+        "apiKeyType": "CrawlForge API key",
+        "supportsPagination": true,
+        "supportsLanguageFilter": true,
+        "supportsDateFilter": true,
+        "supportsSiteFilter": true,
+        "supportsFileTypeFilter": true,
+        "supportsSafeSearch": true,
+        "supportsLocalization": true,
+        "supportsCountryTargeting": true,
+        "maxResultsPerRequest": 100,
+        "rateLimit": "Based on your CrawlForge plan",
+        "creditCost": "2 credits per search",
+        "features": [
+          "Google Search results via CrawlForge proxy",
+          "No Google API credentials needed",
+          "Full text search",
+          "Image metadata",
+          "Exact phrase matching",
+          "Boolean operators",
+          "Site-specific search",
+          "File type filtering",
+          "Date range filtering",
+          "Language filtering",
+          "Country targeting",
+          "Safe search",
+          "Localization support",
+          "Related searches",
+          "Rich snippets"
+        ],
+        "benefits": [
+          "Simplified authentication (one API key)",
+          "Unified billing through CrawlForge",
+          "Enterprise-grade reliability",
+          "No Google API quota management",
+          "Built-in rate limiting",
+          "Credit-based pricing"
+        ]
+      }
+    },
+    "localization": null,
+    "processing": {
+      "ranking": null,
+      "deduplication": {
+        "originalCount": 10,
+        "finalCount": 1,
+        "duplicatesRemoved": 9,
+        "deduplicationRate": "90.0%"
+      },
+      "query_expansion": {
+        "original_query": "shadcn ui components 2026 latest",
+        "expanded_count": 5,
+        "used_query": "shadcn ui components 2026 latest"
+      },
+      "localization_applied": false
+    }
+  },
+  "expiry": null
+}

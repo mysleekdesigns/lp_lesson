@@ -1,0 +1,115 @@
+{
+  "value": {
+    "query": "Next.js 16 best practices 2026",
+    "expanded_queries": [
+      "Next.js 16 best practices 2026",
+      "next js 16 b practice 2026",
+      "next js 16 b practices 2026",
+      "next js 16 best practice 2026",
+      "\"Next.js 16 best practices 2026\""
+    ],
+    "results": [
+      {
+        "title": "Next.js Docs | Next.js",
+        "link": "https://nextjs.org/docs",
+        "snippet": "For the best experience when using a screen reader ... Stay updated on new releases and features, guides, and case studies. Subscribe. © 2026 Vercel, Inc.",
+        "displayLink": "nextjs.org",
+        "formattedUrl": "https://nextjs.org/docs",
+        "htmlSnippet": "For the <b>best</b> experience when using a screen reader ... Stay updated on new releases and features, guides, and case studies. Subscribe. © <b>2026</b> Vercel, Inc.",
+        "pagemap": {
+          "metatags": {
+            "title": "Next.js Docs | Next.js",
+            "description": "Welcome to the Next.js Documentation.",
+            "image": "https://nextjs.org/api/docs-og?title=Next.js%20Docs",
+            "author": "",
+            "publishedTime": "",
+            "modifiedTime": ""
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVkzVhUCl0FAaWB2zZuCLQ2Gl_t-v9xtc4RFq-AwfzlpT_QXUantH7u57&s",
+            "width": "311",
+            "height": "162"
+          },
+          "image": "https://nextjs.org/api/docs-og?title=Next.js%20Docs"
+        },
+        "metadata": {},
+        "originalIndex": 7,
+        "normalizedUrl": "https://nextjs.org/docs",
+        "contentHash": "1100011000000000101001000000000011000110000000001010010000000000",
+        "titleTokens": [
+          "next",
+          "js",
+          "docs",
+          "next",
+          "js"
+        ]
+      }
+    ],
+    "total_results": "125000000",
+    "search_time": 0.377016,
+    "offset": 0,
+    "limit": 10,
+    "cached": false,
+    "provider": {
+      "name": "crawlforge",
+      "backend": "Google Search",
+      "capabilities": {
+        "requiresApiKey": true,
+        "apiKeyType": "CrawlForge API key",
+        "supportsPagination": true,
+        "supportsLanguageFilter": true,
+        "supportsDateFilter": true,
+        "supportsSiteFilter": true,
+        "supportsFileTypeFilter": true,
+        "supportsSafeSearch": true,
+        "supportsLocalization": true,
+        "supportsCountryTargeting": true,
+        "maxResultsPerRequest": 100,
+        "rateLimit": "Based on your CrawlForge plan",
+        "creditCost": "2 credits per search",
+        "features": [
+          "Google Search results via CrawlForge proxy",
+          "No Google API credentials needed",
+          "Full text search",
+          "Image metadata",
+          "Exact phrase matching",
+          "Boolean operators",
+          "Site-specific search",
+          "File type filtering",
+          "Date range filtering",
+          "Language filtering",
+          "Country targeting",
+          "Safe search",
+          "Localization support",
+          "Related searches",
+          "Rich snippets"
+        ],
+        "benefits": [
+          "Simplified authentication (one API key)",
+          "Unified billing through CrawlForge",
+          "Enterprise-grade reliability",
+          "No Google API quota management",
+          "Built-in rate limiting",
+          "Credit-based pricing"
+        ]
+      }
+    },
+    "localization": null,
+    "processing": {
+      "ranking": null,
+      "deduplication": {
+        "originalCount": 10,
+        "finalCount": 1,
+        "duplicatesRemoved": 9,
+        "deduplicationRate": "90.0%"
+      },
+      "query_expansion": {
+        "original_query": "Next.js 16 best practices 2026",
+        "expanded_count": 5,
+        "used_query": "Next.js 16 best practices 2026"
+      },
+      "localization_applied": false
+    }
+  },
+  "expiry": null
+}

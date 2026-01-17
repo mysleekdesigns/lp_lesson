@@ -1,0 +1,101 @@
+{
+  "value": {
+    "results": [
+      {
+        "title": "Changelog - shadcn/ui",
+        "link": "https://ui.shadcn.com/docs/changelog",
+        "snippet": "Pick your component library, icons, base color, theme, fonts and create your own version of shadcn/ui. We're starting with 5 new visual styles, designed to help ...",
+        "displayLink": "ui.shadcn.com",
+        "formattedUrl": "https://ui.shadcn.com/docs/changelog",
+        "htmlSnippet": "Pick your <b>component</b> library, icons, base color, theme, fonts and create your own version of <b>shadcn</b>/<b>ui</b>. We&#39;re starting with 5 <b>new</b> visual styles, designed to help&nbsp;...",
+        "pagemap": {
+          "metatags": {
+            "title": "Changelog",
+            "description": "Latest updates and announcements.",
+            "image": "https://ui.shadcn.com/og?title=Changelog&description=Latest%20updates%20and%20announcements.",
+            "author": "shadcn",
+            "publishedTime": "",
+            "modifiedTime": ""
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3zJEbyIdcg_DWPFGHh3KGYhbNQgKL_csviak_14hrNVra3ZzUD2K6AbTt&s",
+            "width": "311",
+            "height": "162"
+          },
+          "image": "https://ui.shadcn.com/og?title=Changelog&description=Latest%20updates%20and%20announcements."
+        },
+        "metadata": {},
+        "originalIndex": 2,
+        "normalizedUrl": "https://ui.shadcn.com/docs/changelog",
+        "contentHash": "0100011100100000000000000000000001000111001000000000000000000000",
+        "titleTokens": [
+          "changelog",
+          "shadcn",
+          "ui"
+        ],
+        "deduplicationInfo": {
+          "originalUrl": "https://ui.shadcn.com/docs/changelog",
+          "duplicateOf": 0,
+          "duplicateReasons": [
+            "Content similarity: 78.1%",
+            "Combined similarity: 64.9%"
+          ],
+          "merged": true,
+          "alternateSnippets": [
+            "Tailwind v4. If you're already using Tailwind v4, you can upgrade to the latest version of the Calendar component by running the following command:.",
+            "You can use the following command line to update only installed components ! for file in components/ui/*.tsx; do npx shadcn-ui@latest add -y -o $(basename \"$ ...",
+            "Apr 23, 2024 ... Shadcn/ui is great, components are good-looking, easy to setup and customize, and everyone likes it…... Tagged with webdev, react, css, ...",
+            "Apr 17, 2025 ... On top of headless component libs new UI libs arrive, they create beautiful styled components using headless components as its base.",
+            "May 15, 2024 ... The components were released in alpha last January or so. If it really was two years ago you must have either been using the hooks or a ...",
+            "Feb 14, 2025 ... shadcn just provides tailwind styling and component structure ... UI library as a default choice for new ReactJS projects as we enter 2026?",
+            "Nov 12, 2024 ... I did extensive research on UI components. I found the best mix was tailwind with Mantine. Mantine for the basics, tailwind for all the ...",
+            "Nov 17, 2025 ... Shadcn UI: Why I'm Never Going Back to Traditional Component Libraries Look, I've shipped enough React apps to know the drill.",
+            "shadcn/ui components with variables & Tailwind classes - Updated January 2026 ... You can also get notified whenever I add new components or make any ..."
+          ],
+          "alternateTitles": [
+            "Calendar - shadcn/ui",
+            "Need easy way to update components · shadcn-ui ui · Discussion ...",
+            "What I DON'T like about shadcn/ui - DEV Community",
+            "In 2025, what's the goto Reactjs UI library? : r/reactjs",
+            "Why is react-aria not talked about as much as shadcn/radix-ui and ...",
+            "What UI library should i use for an enterprise level application? : r ...",
+            "Daisy UI vs Shadcn UI?? Which one to choose in 2025 : r/reactjs",
+            "Shadcn UI: Why I'm Never Going Back to Traditional Component ...",
+            "shadcn/ui components with variables & Tailwind classes - Updated ..."
+          ],
+          "alternateUrls": [
+            "https://ui.shadcn.com/docs/components/calendar",
+            "https://github.com/shadcn-ui/ui/discussions/790",
+            "https://dev.to/this-is-learning/what-i-dont-like-about-shadcnui-3amf",
+            "https://www.reddit.com/r/reactjs/comments/1k1gerj/in_2025_whats_the_goto_reactjs_ui_library/",
+            "https://www.reddit.com/r/reactjs/comments/1css7vy/why_is_reactaria_not_talked_about_as_much_as/",
+            "https://www.reddit.com/r/reactjs/comments/1ipa9xz/what_ui_library_should_i_use_for_an_enterprise/",
+            "https://www.reddit.com/r/reactjs/comments/1gpaj3b/daisy_ui_vs_shadcn_ui_which_one_to_choose_in_2025/",
+            "https://medium.com/@ananyavhegde2001/shadcn-ui-why-im-never-going-back-to-traditional-component-libraries-10c49babb496",
+            "https://www.figma.com/community/file/1342715840824755935/shadcn-ui-components-with-variables-tailwind-classes-updated-january-2026"
+          ],
+          "mergedDuplicates": 9,
+          "duplicateUrls": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "totalDuplicatesFound": 9
+        }
+      }
+    ],
+    "stats": {
+      "originalCount": 10,
+      "finalCount": 1,
+      "duplicatesRemoved": 9,
+      "deduplicationRate": "90.0%"
+    }
+  },
+  "expiry": null
+}

@@ -1,0 +1,114 @@
+{
+  "value": {
+    "query": "how to bake bread",
+    "expanded_queries": [
+      "how to bake bread",
+      "\"how to bake bread\"",
+      "how to",
+      "how to bake",
+      "to bake"
+    ],
+    "results": [
+      {
+        "title": "How to Bake Bread : 9 Steps (with Pictures) - Instructables",
+        "link": "https://www.instructables.com/how-to-bake-bread/",
+        "snippet": "To knead the bread, first press away from you with the heels of your hands, and then turn the dough 90 degrees, fold it over, and press again with the heels of ...",
+        "displayLink": "www.instructables.com",
+        "formattedUrl": "https://www.instructables.com/how-to-bake-bread/",
+        "htmlSnippet": "To knead the <b>bread</b>, first press away from you with the heels of your hands, and then turn the dough 90 degrees, fold it over, and press again with the heels of&nbsp;...",
+        "pagemap": {
+          "metatags": {
+            "title": "How to Bake Bread",
+            "description": "How to Bake Bread: For the last six months or so I've been learning how to bake bread. I have always had issues with bread - adding too much flour, not adding enough, kneading problems, not baking it long enough, etc.\n\nThe only way I've been able to do it perfectly ev…",
+            "image": "https://content.instructables.com/F5G/1R7L/HFSHUJ22/F5G1R7LHFSHUJ22.jpg?auto=webp&frame=1&width=2100",
+            "author": "",
+            "publishedTime": "",
+            "modifiedTime": ""
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTSizHRpV3uEhBnpKWjOIDzkrK2PtqnvWQGPfW8Dti9wWC16Y2169rCCQ&s",
+            "width": "246",
+            "height": "205"
+          },
+          "image": "https://content.instructables.com/F5G/1R7L/HFSHUJ22/F5G1R7LHFSHUJ22.jpg?auto=webp&frame=1&width=2100"
+        },
+        "metadata": {},
+        "originalIndex": 9,
+        "normalizedUrl": "https://instructables.com/how-to-bake-bread",
+        "contentHash": "1110101000000010100000000000000011101010000000101000000000000000",
+        "titleTokens": [
+          "how",
+          "to",
+          "bake",
+          "bread",
+          "steps",
+          "with",
+          "pictures",
+          "instructables"
+        ]
+      }
+    ],
+    "total_results": "362000000",
+    "search_time": 0.265888,
+    "offset": 0,
+    "limit": 10,
+    "cached": false,
+    "provider": {
+      "name": "google",
+      "backend": "Google Custom Search API (Creator Mode)",
+      "note": "Using Google Search API directly. Production users use CrawlForge API.",
+      "capabilities": {
+        "requiresApiKey": true,
+        "apiKeyType": "Google API key + Search Engine ID",
+        "supportsPagination": true,
+        "supportsLanguageFilter": true,
+        "supportsDateFilter": true,
+        "supportsSiteFilter": true,
+        "supportsFileTypeFilter": true,
+        "supportsSafeSearch": true,
+        "supportsLocalization": true,
+        "supportsCountryTargeting": true,
+        "maxResultsPerRequest": 10,
+        "rateLimit": "Based on Google API quota",
+        "creditCost": "N/A (direct API)",
+        "features": [
+          "Google Custom Search API",
+          "Full text search",
+          "Image metadata",
+          "Exact phrase matching",
+          "Boolean operators",
+          "Site-specific search",
+          "File type filtering",
+          "Date range filtering",
+          "Language filtering",
+          "Country targeting",
+          "Safe search",
+          "Rich snippets"
+        ],
+        "benefits": [
+          "Direct Google API access",
+          "No proxy overhead",
+          "Full Google Search capabilities",
+          "Creator Mode only"
+        ]
+      }
+    },
+    "localization": null,
+    "processing": {
+      "ranking": null,
+      "deduplication": {
+        "originalCount": 10,
+        "finalCount": 1,
+        "duplicatesRemoved": 9,
+        "deduplicationRate": "90.0%"
+      },
+      "query_expansion": {
+        "original_query": "how to bake bread",
+        "expanded_count": 5,
+        "used_query": "how to bake bread"
+      },
+      "localization_applied": false
+    }
+  },
+  "expiry": null
+}

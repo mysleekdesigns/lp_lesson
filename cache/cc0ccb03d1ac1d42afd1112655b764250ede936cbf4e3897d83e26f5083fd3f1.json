@@ -1,0 +1,103 @@
+{
+  "value": {
+    "results": [
+      {
+        "title": "Getting Started: Project Structure | Next.js",
+        "link": "https://nextjs.org/docs/app/getting-started/project-structure",
+        "snippet": "Scroll to top. App Router Getting Started Project Structure. Copy page. Project structure and organization. Last updated December 9, 2025. This page ...",
+        "displayLink": "nextjs.org",
+        "formattedUrl": "https://nextjs.org/docs/app/getting-started/project-structure",
+        "htmlSnippet": "Scroll to <b>top</b>. <b>App Router</b> Getting Started Project Structure. Copy page. Project structure and organization. Last updated December 9, <b>2025</b>. This page&nbsp;...",
+        "pagemap": {
+          "metatags": {
+            "title": "Getting Started: Project Structure | Next.js",
+            "description": "Learn the folder and file conventions in Next.js, and how to organize your project.",
+            "image": "https://nextjs.org/api/docs-og?title=Getting%20Started:%20Project%20Structure",
+            "author": "",
+            "publishedTime": "",
+            "modifiedTime": ""
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Mk-_6e8wVFrX67o2xZoTbeKt3_gSAN4PobLpLu-bX-nkSRFEJnL7pYQ&s",
+            "width": "311",
+            "height": "162"
+          },
+          "image": "https://nextjs.org/api/docs-og?title=Getting%20Started:%20Project%20Structure"
+        },
+        "metadata": {},
+        "originalIndex": 1,
+        "normalizedUrl": "https://nextjs.org/docs/app/getting-started/project-structure",
+        "contentHash": "1000101001000010000010000000000010001010010000100000100000000000",
+        "titleTokens": [
+          "getting",
+          "started",
+          "project",
+          "structure",
+          "next",
+          "js"
+        ],
+        "deduplicationInfo": {
+          "originalUrl": "https://nextjs.org/docs/app/getting-started/project-structure",
+          "duplicateOf": 0,
+          "duplicateReasons": [
+            "Content similarity: 84.4%"
+          ],
+          "merged": true,
+          "alternateSnippets": [
+            "Aug 22, 2021 ... Next.js Best Practices in 2025 — Build Faster, Cleaner, Scalable Apps ... App Router, server components, and… Jul 16, 2025. A clap icon 53.",
+            "Jan 7, 2025 ... Everyone has their own “best practices,” their own stack, their own way of doing things. ... app without form, router; just as an example ).",
+            "May 10, 2023 ... I'm learning to use NextJS and I'm using the latest version with App Router, I'm currently stuck on how to do routing, such as where to put the ...",
+            "May 28, 2019 ... Next.js Best Practices in 2025 — Build Faster, Cleaner, Scalable Apps ... App Router, server components, and… Jul 16, 2025. A clap icon 53.",
+            "Jul 11, 2025 ... Your app will be slow though if you can live with that. jorgejhms. • 6mo ago. You can avoid that using best practices (using layout, suspense, ...",
+            "Jan 21, 2024 ... js with App Router support, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, Husky, ...",
+            "Oct 21, 2025 ... Here's a minimal App Router structure: app/ layout.js // shared ... Next.js Best Practices in 2025 — Build Faster, Cleaner, Scalable Apps ...",
+            "Jul 16, 2025 ... Next.js has evolved significantly in the past couple of years, especially with the introduction of the App Router, server components, ...",
+            "Sep 1, 2025 ... Yet many projects suffer from laggy transitions, memory leaks, or “stuck” scroll triggers — especially when using Next.js 15 with App Router."
+          ],
+          "alternateTitles": [
+            "The Benefits of using NextJS in 2021 | by Malcolm | Frontend Digest",
+            "Why I Decided to Stop Working with React.js in 2025 - DEV ...",
+            "reactjs - NextJS 13 folder structure best practice - Stack Overflow",
+            "How to alias root url to a specific page in next.js | by Shan Dou ...",
+            "2025: Remix or Next.js – Which One Should I Choose? : r/reactjs",
+            "Best/Pro scalable next js project folder structure or architecture : r ...",
+            "From React to Next.js: Why I Finally Switched and What I Learned ...",
+            "Next.js Best Practices in 2025 — Build Faster, Cleaner, Scalable Apps",
+            "Optimizing GSAP Animations in Next.js 15: Best Practices for ..."
+          ],
+          "alternateUrls": [
+            "https://frontend-digest.com/the-benefits-of-using-nextjs-in-2021-4f071ab6fd0",
+            "https://dev.to/holasoymalva/why-i-decided-to-stop-working-with-reactjs-in-2025-4d1l",
+            "https://stackoverflow.com/questions/76214501/nextjs-13-folder-structure-best-practice",
+            "https://shandou.medium.com/how-to-alias-root-url-to-a-specific-page-in-next-js-9711c5368ffe",
+            "https://www.reddit.com/r/reactjs/comments/1lwwpnm/2025_remix_or_nextjs_which_one_should_i_choose/",
+            "https://www.reddit.com/r/nextjs/comments/19c3kb9/bestpro_scalable_next_js_project_folder_structure/",
+            "https://javascript.plainenglish.io/from-react-to-next-js-why-i-finally-switched-and-what-i-learned-32bb376f7bf1",
+            "https://medium.com/@GoutamSingha/next-js-best-practices-in-2025-build-faster-cleaner-scalable-apps-7efbad2c3820",
+            "https://medium.com/@thomasaugot/optimizing-gsap-animations-in-next-js-15-best-practices-for-initialization-and-cleanup-2ebaba7d0232"
+          ],
+          "mergedDuplicates": 9,
+          "duplicateUrls": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "totalDuplicatesFound": 9
+        }
+      }
+    ],
+    "stats": {
+      "originalCount": 10,
+      "finalCount": 1,
+      "duplicatesRemoved": 9,
+      "deduplicationRate": "90.0%"
+    }
+  },
+  "expiry": null
+}

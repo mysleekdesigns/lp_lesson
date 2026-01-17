@@ -39,6 +39,8 @@
   --color-card: var(--card);
   --color-glow-cyan: var(--glow-cyan);
   --color-glow-purple: var(--glow-purple);
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
@@ -49,6 +51,7 @@
   --animate-pulse-glow: pulse-glow 2s ease-in-out infinite;
   --animate-shimmer: shimmer 2s linear infinite;
   --animate-float: float 6s ease-in-out infinite;
+  --animate-slide-in-fade: slide-in-fade 0.3s ease-out;
 }
 
 :root {
@@ -86,6 +89,8 @@
   --sidebar-ring: oklch(0.708 0 0);
   --glow-cyan: oklch(0.6 0.15 195);
   --glow-purple: oklch(0.5 0.2 290);
+  --success: oklch(0.627 0.194 149);
+  --success-foreground: oklch(0.985 0 0);
 }
 
 .dark {
@@ -122,6 +127,8 @@
   --sidebar-ring: oklch(0.556 0 0);
   --glow-cyan: oklch(0.8 0.15 195);
   --glow-purple: oklch(0.7 0.2 290);
+  --success: oklch(0.75 0.18 149);
+  --success-foreground: oklch(0.1 0 0);
 }
 
 @layer base {
@@ -168,6 +175,17 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@keyframes slide-in-fade {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 

@@ -1,0 +1,117 @@
+{
+  "value": {
+    "query": "nextjs app router patterns architecture",
+    "expanded_queries": [
+      "nextjs app router patterns architecture",
+      "nextjs application router patterns architecture",
+      "nextjs software router patterns architecture",
+      "nextjs program router patterns architecture",
+      "nextj app rout pattern architecture"
+    ],
+    "results": [
+      {
+        "title": "Next.js Docs: App Router | Next.js",
+        "link": "https://nextjs.org/docs/app",
+        "snippet": "Jul 30, 2025 ... The App Router is a file-system based router that uses React's latest features such as Server Components, Suspense, Server Functions, ...",
+        "displayLink": "nextjs.org",
+        "formattedUrl": "https://nextjs.org/docs/app",
+        "htmlSnippet": "Jul 30, 2025 <b>...</b> The <b>App Router</b> is a file-system based <b>router</b> that uses React&#39;s latest features such as Server Components, Suspense, Server Functions,&nbsp;...",
+        "pagemap": {
+          "metatags": {
+            "title": "Next.js Docs: App Router | Next.js",
+            "description": "The App Router is a file-system based router that uses React's latest features such as Server Components, Suspense, Server Functions, and more.",
+            "image": "https://nextjs.org/api/docs-og?title=Next.js%20Docs:%20App%20Router",
+            "author": "",
+            "publishedTime": "",
+            "modifiedTime": ""
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbvUCjMs0WuemyJeBNRGFe7CQeXjfePiqUhcSvRvsAQtFqotrQfxjjt45v&s",
+            "width": "311",
+            "height": "162"
+          },
+          "image": "https://nextjs.org/api/docs-og?title=Next.js%20Docs:%20App%20Router"
+        },
+        "metadata": {},
+        "originalIndex": 5,
+        "normalizedUrl": "https://nextjs.org/docs/app",
+        "contentHash": "1100011011100000000000000000000011000110111000000000000000000000",
+        "titleTokens": [
+          "next",
+          "js",
+          "docs",
+          "app",
+          "router",
+          "next",
+          "js"
+        ]
+      }
+    ],
+    "total_results": "23800000",
+    "search_time": 0.45944,
+    "offset": 0,
+    "limit": 10,
+    "cached": false,
+    "provider": {
+      "name": "crawlforge",
+      "backend": "Google Search",
+      "capabilities": {
+        "requiresApiKey": true,
+        "apiKeyType": "CrawlForge API key",
+        "supportsPagination": true,
+        "supportsLanguageFilter": true,
+        "supportsDateFilter": true,
+        "supportsSiteFilter": true,
+        "supportsFileTypeFilter": true,
+        "supportsSafeSearch": true,
+        "supportsLocalization": true,
+        "supportsCountryTargeting": true,
+        "maxResultsPerRequest": 100,
+        "rateLimit": "Based on your CrawlForge plan",
+        "creditCost": "2 credits per search",
+        "features": [
+          "Google Search results via CrawlForge proxy",
+          "No Google API credentials needed",
+          "Full text search",
+          "Image metadata",
+          "Exact phrase matching",
+          "Boolean operators",
+          "Site-specific search",
+          "File type filtering",
+          "Date range filtering",
+          "Language filtering",
+          "Country targeting",
+          "Safe search",
+          "Localization support",
+          "Related searches",
+          "Rich snippets"
+        ],
+        "benefits": [
+          "Simplified authentication (one API key)",
+          "Unified billing through CrawlForge",
+          "Enterprise-grade reliability",
+          "No Google API quota management",
+          "Built-in rate limiting",
+          "Credit-based pricing"
+        ]
+      }
+    },
+    "localization": null,
+    "processing": {
+      "ranking": null,
+      "deduplication": {
+        "originalCount": 10,
+        "finalCount": 1,
+        "duplicatesRemoved": 9,
+        "deduplicationRate": "90.0%"
+      },
+      "query_expansion": {
+        "original_query": "nextjs app router patterns architecture",
+        "expanded_count": 5,
+        "used_query": "nextjs app router patterns architecture"
+      },
+      "localization_applied": false
+    }
+  },
+  "expiry": null
+}

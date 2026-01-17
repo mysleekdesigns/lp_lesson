@@ -1,0 +1,121 @@
+{
+  "value": {
+    "query": "nextjs server components best practices",
+    "expanded_queries": [
+      "nextjs server components best practices",
+      "nextjs host components best practices",
+      "nextjs backend components best practices",
+      "nextjs service components best practices",
+      "nextj serv component b practice"
+    ],
+    "results": [
+      {
+        "title": "How to Inspect React Server Component Activity with Next.js · Dash0",
+        "link": "https://www.dash0.com/guides/inspect-react-server-components-nextjs",
+        "snippet": "Jun 4, 2025 ... Pop open the inspector! Want to trace a network request? The Network tab is your best friend. Debugging, profiling, and understanding frontend ...",
+        "displayLink": "www.dash0.com",
+        "formattedUrl": "https://www.dash0.com/guides/inspect-react-server-components-nextjs",
+        "htmlSnippet": "Jun 4, 2025 <b>...</b> Pop open the inspector! Want to trace a network request? The Network tab is your <b>best</b> friend. Debugging, profiling, and understanding frontend&nbsp;...",
+        "pagemap": {
+          "metatags": {
+            "title": "How to Inspect React Server Component Activity with Next.js · Dash0",
+            "description": "Explore how OpenTelemetry traces React Server Components in Nextjs revealing serverside behavior for deeper insights into your apps performance",
+            "image": "https://cdn.sanity.io/images/rdn92ihu/production/57e76837fc11f9258febd08ebc384556cf6327af-2205x1039.png?fit=max&auto=format",
+            "author": "",
+            "publishedTime": "",
+            "modifiedTime": ""
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9TlBst9g8pCqPkWZ5rW_YaZq3knmxQru5nxdi6N45dQrJyrUwj0LmaU&s",
+            "width": "327",
+            "height": "154"
+          },
+          "image": "https://cdn.sanity.io/images/rdn92ihu/production/57e76837fc11f9258febd08ebc384556cf6327af-2205x1039.png?fit=max&auto=format"
+        },
+        "metadata": {},
+        "originalIndex": 9,
+        "normalizedUrl": "https://dash0.com/guides/inspect-react-server-components-nextjs",
+        "contentHash": "1100011000000000100000000000000011000110000000001000000000000000",
+        "titleTokens": [
+          "how",
+          "to",
+          "inspect",
+          "react",
+          "server",
+          "component",
+          "activity",
+          "with",
+          "next",
+          "js",
+          "dash0"
+        ]
+      }
+    ],
+    "total_results": "11300000",
+    "search_time": 0.341119,
+    "offset": 0,
+    "limit": 10,
+    "cached": false,
+    "provider": {
+      "name": "crawlforge",
+      "backend": "Google Search",
+      "capabilities": {
+        "requiresApiKey": true,
+        "apiKeyType": "CrawlForge API key",
+        "supportsPagination": true,
+        "supportsLanguageFilter": true,
+        "supportsDateFilter": true,
+        "supportsSiteFilter": true,
+        "supportsFileTypeFilter": true,
+        "supportsSafeSearch": true,
+        "supportsLocalization": true,
+        "supportsCountryTargeting": true,
+        "maxResultsPerRequest": 100,
+        "rateLimit": "Based on your CrawlForge plan",
+        "creditCost": "2 credits per search",
+        "features": [
+          "Google Search results via CrawlForge proxy",
+          "No Google API credentials needed",
+          "Full text search",
+          "Image metadata",
+          "Exact phrase matching",
+          "Boolean operators",
+          "Site-specific search",
+          "File type filtering",
+          "Date range filtering",
+          "Language filtering",
+          "Country targeting",
+          "Safe search",
+          "Localization support",
+          "Related searches",
+          "Rich snippets"
+        ],
+        "benefits": [
+          "Simplified authentication (one API key)",
+          "Unified billing through CrawlForge",
+          "Enterprise-grade reliability",
+          "No Google API quota management",
+          "Built-in rate limiting",
+          "Credit-based pricing"
+        ]
+      }
+    },
+    "localization": null,
+    "processing": {
+      "ranking": null,
+      "deduplication": {
+        "originalCount": 10,
+        "finalCount": 1,
+        "duplicatesRemoved": 9,
+        "deduplicationRate": "90.0%"
+      },
+      "query_expansion": {
+        "original_query": "nextjs server components best practices",
+        "expanded_count": 5,
+        "used_query": "nextjs server components best practices"
+      },
+      "localization_applied": false
+    }
+  },
+  "expiry": null
+}

@@ -1,0 +1,102 @@
+{
+  "value": {
+    "results": [
+      {
+        "title": "Bread for Beginners - A Duck's Oven",
+        "link": "https://aducksoven.com/recipes/bread-for-beginners/",
+        "snippet": "This recipe is super simple and great for beginners looking to try their hand at bread baking. Step by step instructions included!",
+        "displayLink": "aducksoven.com",
+        "formattedUrl": "https://aducksoven.com/recipes/bread-for-beginners/",
+        "htmlSnippet": "This <b>recipe</b> is super <b>simple</b> and great for <b>beginners</b> looking to try their hand at <b>bread baking</b>. Step by step <b>instructions</b> included!",
+        "pagemap": {
+          "metatags": {
+            "title": "Bread for Beginners - A Duck's Oven",
+            "description": "This recipe is super simple and great for beginners looking to try their hand at bread baking. Step by step instructions included!",
+            "image": "https://aducksoven.com/wp-content/uploads/2012/05/bread-tutorial-1.jpg",
+            "author": "",
+            "publishedTime": "",
+            "modifiedTime": "2024-02-22T23:09:10+00:00"
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwoc70WZi4bSDuGta0fUonN3Z2x4Kv1c_kA5Rmxhr1uJ9TeLfvnN6xv4&s",
+            "width": "170",
+            "height": "297"
+          },
+          "image": "https://aducksoven.com/wp-content/uploads/2012/05/bread-tutorial-1.jpg"
+        },
+        "metadata": {},
+        "originalIndex": 8,
+        "normalizedUrl": "https://aducksoven.com/recipes/bread-for-beginners",
+        "contentHash": "0101011000000000000000000000000001010110000000000000000000000000",
+        "titleTokens": [
+          "bread",
+          "for",
+          "beginners",
+          "duck",
+          "oven"
+        ],
+        "deduplicationInfo": {
+          "originalUrl": "https://aducksoven.com/recipes/bread-for-beginners/",
+          "duplicateOf": 0,
+          "duplicateReasons": [
+            "Content similarity: 81.3%"
+          ],
+          "merged": true,
+          "alternateSnippets": [
+            "I've put together a beginner's guide to making bread to help you get to grips with the basics, so you'll be making beautifully-baked loaves of homemade bread ...",
+            "Oct 17, 2025 ... New to sourdough? This easy sourdough bread recipe shows how to make fresh, homemade bread step-by-step—no yeast, no kneading, ...",
+            "Jul 5, 2018 ... The truth is that with knowledge of the principle of yeasted bread making ... Quick Timing Guide. Day 1. Feed up your starter in the evening.",
+            "Jan 18, 2017 ... Easy Sandwich Loaf · 310 grams flour (all-purpose or bread) – 2 cups · 55 grams whole wheat flour – 6 tablespoons · 7 grams yeast – 2 1/4 teaspoons ...",
+            "A comprehensive guide teaching bread making fundamentals through 32 recipes, from basic techniques to advanced breads like focaccia, brioche, and sourdough, ...",
+            "Oct 27, 2021 ... ... recipe? See our user-friendly guide, Yeast Baking 101. Cover photo (No-Knead Crusty White Bread) by Kristin Teig. Jump to Comments. Share.",
+            "Feb 19, 2022 ... Many bread recipes start with an autolyse, where you just mix the flour and water, let them sit for a while (usually ~30m), and then mix in the ...",
+            "Jan 4, 2023 ... If quick breads, I highly recommend starting with banana bread or drop biscuits. They are beginner friendly and there are endless variations out there.",
+            "Jul 30, 2025 ... Another great beginner's bread recipe to try is this overnight ... Simple Sourdough Bread: A Step-by-Step Guide; #1 Sourdough Bread ..."
+          ],
+          "alternateTitles": [
+            "The Beginner's Guide to Making Bread - A Hygge Homestead",
+            "Sourdough Bread: A Beginner's Guide - The Clever Carrot",
+            "Sourdough Loaf for Beginners — Bake with Jack",
+            "Bread Baking 101 for Beginners | The Art of Manliness",
+            "Bread Baking for Beginners: The Essential Guide to Baking ...",
+            "The best bread recipes for beginners | King Arthur Baking",
+            "A beginner baker's guide to every bread recipe (and de-mystifying ...",
+            "Absolute beginner to bread making…any tips maybe? : r/AskBaking",
+            "Homemade Sourdough Bread, Step by Step | Alexandra's Kitchen"
+          ],
+          "alternateUrls": [
+            "https://www.ahyggehomestead.com/beginners-guide-making-bread/",
+            "https://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/",
+            "https://www.bakewithjack.co.uk/blog-1/2018/7/5/sourdough-loaf-for-beginners",
+            "https://www.artofmanliness.com/living/food-drink/bread-baking-101-beginners/",
+            "https://www.amazon.com/Bread-Baking-Beginners-Essential-No-Knead/dp/1641521198",
+            "https://www.kingarthurbaking.com/blog/2021/10/27/the-best-breads-for-beginners",
+            "https://www.reddit.com/r/Cooking/comments/sw5o6y/a_beginner_bakers_guide_to_every_bread_recipe_and/",
+            "https://www.reddit.com/r/AskBaking/comments/1033mbz/absolute_beginner_to_bread_makingany_tips_maybe/",
+            "https://alexandracooks.com/2017/10/24/artisan-sourdough-made-simple-sourdough-bread-demystified-a-beginners-guide-to-sourdough-baking/"
+          ],
+          "mergedDuplicates": 9,
+          "duplicateUrls": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "totalDuplicatesFound": 9
+        }
+      }
+    ],
+    "stats": {
+      "originalCount": 10,
+      "finalCount": 1,
+      "duplicatesRemoved": 9,
+      "deduplicationRate": "90.0%"
+    }
+  },
+  "expiry": null
+}

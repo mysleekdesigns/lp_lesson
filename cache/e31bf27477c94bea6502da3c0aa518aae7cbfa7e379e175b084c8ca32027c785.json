@@ -1,0 +1,108 @@
+{
+  "value": {
+    "results": [
+      {
+        "title": "How to Inspect React Server Component Activity with Next.js · Dash0",
+        "link": "https://www.dash0.com/guides/inspect-react-server-components-nextjs",
+        "snippet": "Jun 4, 2025 ... Pop open the inspector! Want to trace a network request? The Network tab is your best friend. Debugging, profiling, and understanding frontend ...",
+        "displayLink": "www.dash0.com",
+        "formattedUrl": "https://www.dash0.com/guides/inspect-react-server-components-nextjs",
+        "htmlSnippet": "Jun 4, 2025 <b>...</b> Pop open the inspector! Want to trace a network request? The Network tab is your <b>best</b> friend. Debugging, profiling, and understanding frontend&nbsp;...",
+        "pagemap": {
+          "metatags": {
+            "title": "How to Inspect React Server Component Activity with Next.js · Dash0",
+            "description": "Explore how OpenTelemetry traces React Server Components in Nextjs revealing serverside behavior for deeper insights into your apps performance",
+            "image": "https://cdn.sanity.io/images/rdn92ihu/production/57e76837fc11f9258febd08ebc384556cf6327af-2205x1039.png?fit=max&auto=format",
+            "author": "",
+            "publishedTime": "",
+            "modifiedTime": ""
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9TlBst9g8pCqPkWZ5rW_YaZq3knmxQru5nxdi6N45dQrJyrUwj0LmaU&s",
+            "width": "327",
+            "height": "154"
+          },
+          "image": "https://cdn.sanity.io/images/rdn92ihu/production/57e76837fc11f9258febd08ebc384556cf6327af-2205x1039.png?fit=max&auto=format"
+        },
+        "metadata": {},
+        "originalIndex": 9,
+        "normalizedUrl": "https://dash0.com/guides/inspect-react-server-components-nextjs",
+        "contentHash": "1100011000000000100000000000000011000110000000001000000000000000",
+        "titleTokens": [
+          "how",
+          "to",
+          "inspect",
+          "react",
+          "server",
+          "component",
+          "activity",
+          "with",
+          "next",
+          "js",
+          "dash0"
+        ],
+        "deduplicationInfo": {
+          "originalUrl": "https://www.dash0.com/guides/inspect-react-server-components-nextjs",
+          "duplicateOf": 0,
+          "duplicateReasons": [
+            "Content similarity: 93.8%"
+          ],
+          "merged": true,
+          "alternateSnippets": [
+            "Feb 17, 2024 ... Move to App router. Fetch in server components and if you need the data in client components, just pass the data via props. Avoid client ...",
+            "Mar 7, 2024 ... Whenever possible, we recommend fetching data on the server with Server Components. This allows you to: Have direct access to backend data ...",
+            "May 10, 2023 ... js introduced a new App Router built on React Server Components. Means whatever component you will place under the app directory will by default ...",
+            "Mar 7, 2024 ... js, aiming to combine the best of both static generation and server-side rendering. ... Nextjs Best Practices. Goutam Singha · Next.js Best ...",
+            "Apr 22, 2025 ... Best approach for you could be: fetch data in Server Component , and then pass data as props to Client Component. Keep or add event handlers there. Keeps clean ...",
+            "Sep 26, 2024 ... So I've used Next a fair bit a couple of years ago but I'm new to all of this SSR / server components stuff and have typically used SPAs and ...",
+            "Jan 29, 2025 ... Server Components run on the server and send pre-rendered HTML to the client. They do not include JavaScript in the browser, making them faster and lighter.",
+            "Aug 8, 2023 ... ... component to Server component: Best practices using NextJS 13 and React Server components ... component in react 18 - nextjs 14 app router ...",
+            "Jan 13, 2025 ... next js What are the best practices for using GSAP with Next 15? (client/server components). next · nextjs. artvera. By artvera. January 13, ..."
+          ],
+          "alternateTitles": [
+            "Data fetching best practices? : r/nextjs",
+            "Data Fetching: Data Fetching Patterns and Best Practices | Next.js",
+            "reactjs - NextJS 13 folder structure best practice - Stack Overflow",
+            "How to Use Next.js 14's Server Components Effectively | by The ...",
+            "Mixing client/server components best practices : r/nextjs",
+            "Best practices for full-stack & server rendering in 2024 : r/nextjs",
+            "Next.js Server Components vs. Client Components: Best Practices ...",
+            "reactjs - Passing state values from Client component to Server ...",
+            "What are the best practices for using GSAP with Next 15? (client ..."
+          ],
+          "alternateUrls": [
+            "https://www.reddit.com/r/nextjs/comments/1at8pek/data_fetching_best_practices/",
+            "https://nextjs.org/docs/14/app/building-your-application/data-fetching/patterns",
+            "https://stackoverflow.com/questions/76214501/nextjs-13-folder-structure-best-practice",
+            "https://medium.com/@sassenthusiast/my-epiphany-with-next-js-14s-server-components-08f69a2c1414",
+            "https://www.reddit.com/r/nextjs/comments/1k5a1mh/mixing_clientserver_components_best_practices/",
+            "https://www.reddit.com/r/nextjs/comments/1fpztnm/best_practices_for_fullstack_server_rendering_in/",
+            "https://medium.com/@jigsz6391/next-js-server-components-vs-client-components-best-practices-2e735f4ad27c",
+            "https://stackoverflow.com/questions/76860370/passing-state-values-from-client-component-to-server-component-best-practices-u",
+            "https://gsap.com/community/forums/topic/43831-what-are-the-best-practices-for-using-gsap-with-next-15-clientserver-components/"
+          ],
+          "mergedDuplicates": 9,
+          "duplicateUrls": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "totalDuplicatesFound": 9
+        }
+      }
+    ],
+    "stats": {
+      "originalCount": 10,
+      "finalCount": 1,
+      "duplicatesRemoved": 9,
+      "deduplicationRate": "90.0%"
+    }
+  },
+  "expiry": null
+}

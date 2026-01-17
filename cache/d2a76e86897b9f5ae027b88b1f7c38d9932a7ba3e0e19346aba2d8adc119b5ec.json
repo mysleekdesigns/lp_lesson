@@ -1,0 +1,104 @@
+{
+  "value": {
+    "results": [
+      {
+        "title": "Next.js Docs: App Router | Next.js",
+        "link": "https://nextjs.org/docs/app",
+        "snippet": "Jul 30, 2025 ... The App Router is a file-system based router that uses React's latest features such as Server Components, Suspense, Server Functions, ...",
+        "displayLink": "nextjs.org",
+        "formattedUrl": "https://nextjs.org/docs/app",
+        "htmlSnippet": "Jul 30, 2025 <b>...</b> The <b>App Router</b> is a file-system based <b>router</b> that uses React&#39;s latest features such as Server Components, Suspense, Server Functions,&nbsp;...",
+        "pagemap": {
+          "metatags": {
+            "title": "Next.js Docs: App Router | Next.js",
+            "description": "The App Router is a file-system based router that uses React's latest features such as Server Components, Suspense, Server Functions, and more.",
+            "image": "https://nextjs.org/api/docs-og?title=Next.js%20Docs:%20App%20Router",
+            "author": "",
+            "publishedTime": "",
+            "modifiedTime": ""
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbvUCjMs0WuemyJeBNRGFe7CQeXjfePiqUhcSvRvsAQtFqotrQfxjjt45v&s",
+            "width": "311",
+            "height": "162"
+          },
+          "image": "https://nextjs.org/api/docs-og?title=Next.js%20Docs:%20App%20Router"
+        },
+        "metadata": {},
+        "originalIndex": 5,
+        "normalizedUrl": "https://nextjs.org/docs/app",
+        "contentHash": "1100011011100000000000000000000011000110111000000000000000000000",
+        "titleTokens": [
+          "next",
+          "js",
+          "docs",
+          "app",
+          "router",
+          "next",
+          "js"
+        ],
+        "deduplicationInfo": {
+          "originalUrl": "https://nextjs.org/docs/app",
+          "duplicateOf": 0,
+          "duplicateReasons": [
+            "Content similarity: 87.5%"
+          ],
+          "merged": true,
+          "alternateSnippets": [
+            "Nov 17, 2025 ... Architecture · Accessibility · Fast Refresh · Next.js Compiler ... App Router Getting Started Layouts and Pages. Copy page. Layouts and ...",
+            "Dec 9, 2025 ... App Router. pages, Pages Router. public, Static assets to be served. src ... These features fit specific UI patterns, such as slot-based layouts ...",
+            "Dec 18, 2024 ... ... architecture and structure of a production-grade Next.js App Router project ... Next.js App Router project following Makerkit's proven patterns ...",
+            "May 10, 2023 ... architecture; dns; playframework; pyqt; 3d; version ... In version 13, Next.js introduced a new App Router built on React Server Components.",
+            "Nov 22, 2024 ... It's also useful when using the Next.js app router with client and server components. ... Check it out at: https://app.thinkthroo.com/architecture.",
+            "Apr 16, 2025 ... I'm building a highly scalable and complex application using Next.js 15 with the App Router and React. Before diving deep, I want to get the architecture right.",
+            "Jan 21, 2024 ... Architecture Check: Handling Role-Based Access via Supabase RLS in Next.js 16 (App Router) ... r/nextjs - Next.js architectural pattern. 8 ...",
+            "Mar 12, 2024 ... The simplest pattern is just to create a directory inside the app folder with the route name and at that directory create a page.tsx file.",
+            "Oct 30, 2025 ... js App Router, the new standard for building scalable, high-performance applications. This update aligns the SDK with the evolving Next.js ..."
+          ],
+          "alternateTitles": [
+            "Getting Started: Layouts and Pages | Next.js",
+            "Getting Started: Project Structure | Next.js",
+            "Next.js App Router: Project Structure",
+            "reactjs - NextJS 13 folder structure best practice - Stack Overflow",
+            "Design patterns in Next.js and React.js. : r/nextjs",
+            "Best architecture setup for a highly scalable, complex app using ...",
+            "Best/Pro scalable next js project folder structure or architecture : r ...",
+            "Next.js App Router Routing patterns you should know | by Alon ...",
+            "Content SDK v1.2 — Modernize Routing Architecture with App ..."
+          ],
+          "alternateUrls": [
+            "https://nextjs.org/docs/app/getting-started/layouts-and-pages",
+            "https://nextjs.org/docs/app/getting-started/project-structure",
+            "https://makerkit.dev/blog/tutorials/nextjs-app-router-project-structure",
+            "https://stackoverflow.com/questions/76214501/nextjs-13-folder-structure-best-practice",
+            "https://www.reddit.com/r/nextjs/comments/1gxeowu/design_patterns_in_nextjs_and_reactjs/",
+            "https://www.reddit.com/r/nextjs/comments/1k0hssv/best_architecture_setup_for_a_highly_scalable/",
+            "https://www.reddit.com/r/nextjs/comments/19c3kb9/bestpro_scalable_next_js_project_folder_structure/",
+            "https://medium.com/israeli-tech-radar/next-js-app-router-routing-patterns-you-should-know-9dfa6b669983",
+            "https://developers.sitecore.com/changelog/sitecoreai/30102025/content-sdk-v1.2-%E2%80%94-modernize-routing-architecture-with-app-router-support"
+          ],
+          "mergedDuplicates": 9,
+          "duplicateUrls": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "totalDuplicatesFound": 9
+        }
+      }
+    ],
+    "stats": {
+      "originalCount": 10,
+      "finalCount": 1,
+      "duplicatesRemoved": 9,
+      "deduplicationRate": "90.0%"
+    }
+  },
+  "expiry": null
+}

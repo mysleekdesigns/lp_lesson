@@ -1,0 +1,111 @@
+{
+  "value": {
+    "query": "how to bake bread beginner guide",
+    "expanded_queries": [
+      "how to bake bread beginner guide",
+      "how to bake bread beginn guide",
+      "\"how to bake bread beginner guide\"",
+      "how to",
+      "how to bake"
+    ],
+    "results": [
+      {
+        "title": "Bread for Beginners - A Duck's Oven",
+        "link": "https://aducksoven.com/recipes/bread-for-beginners/",
+        "snippet": "This recipe is super simple and great for beginners looking to try their hand at bread baking. Step by step instructions included!",
+        "displayLink": "aducksoven.com",
+        "formattedUrl": "https://aducksoven.com/recipes/bread-for-beginners/",
+        "htmlSnippet": "This <b>recipe</b> is super <b>simple</b> and great for <b>beginners</b> looking to try their hand at <b>bread baking</b>. Step by step <b>instructions</b> included!",
+        "pagemap": {
+          "metatags": {
+            "title": "Bread for Beginners - A Duck's Oven",
+            "description": "This recipe is super simple and great for beginners looking to try their hand at bread baking. Step by step instructions included!",
+            "image": "https://aducksoven.com/wp-content/uploads/2012/05/bread-tutorial-1.jpg",
+            "author": "",
+            "publishedTime": "",
+            "modifiedTime": "2024-02-22T23:09:10+00:00"
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwoc70WZi4bSDuGta0fUonN3Z2x4Kv1c_kA5Rmxhr1uJ9TeLfvnN6xv4&s",
+            "width": "170",
+            "height": "297"
+          },
+          "image": "https://aducksoven.com/wp-content/uploads/2012/05/bread-tutorial-1.jpg"
+        },
+        "metadata": {},
+        "originalIndex": 8,
+        "normalizedUrl": "https://aducksoven.com/recipes/bread-for-beginners",
+        "contentHash": "0101011000000000000000000000000001010110000000000000000000000000",
+        "titleTokens": [
+          "bread",
+          "for",
+          "beginners",
+          "duck",
+          "oven"
+        ]
+      }
+    ],
+    "total_results": "777000000",
+    "search_time": 0.391356,
+    "offset": 0,
+    "limit": 10,
+    "cached": false,
+    "provider": {
+      "name": "google",
+      "backend": "Google Custom Search API (Creator Mode)",
+      "note": "Using Google Search API directly. Production users use CrawlForge API.",
+      "capabilities": {
+        "requiresApiKey": true,
+        "apiKeyType": "Google API key + Search Engine ID",
+        "supportsPagination": true,
+        "supportsLanguageFilter": true,
+        "supportsDateFilter": true,
+        "supportsSiteFilter": true,
+        "supportsFileTypeFilter": true,
+        "supportsSafeSearch": true,
+        "supportsLocalization": true,
+        "supportsCountryTargeting": true,
+        "maxResultsPerRequest": 10,
+        "rateLimit": "Based on Google API quota",
+        "creditCost": "N/A (direct API)",
+        "features": [
+          "Google Custom Search API",
+          "Full text search",
+          "Image metadata",
+          "Exact phrase matching",
+          "Boolean operators",
+          "Site-specific search",
+          "File type filtering",
+          "Date range filtering",
+          "Language filtering",
+          "Country targeting",
+          "Safe search",
+          "Rich snippets"
+        ],
+        "benefits": [
+          "Direct Google API access",
+          "No proxy overhead",
+          "Full Google Search capabilities",
+          "Creator Mode only"
+        ]
+      }
+    },
+    "localization": null,
+    "processing": {
+      "ranking": null,
+      "deduplication": {
+        "originalCount": 10,
+        "finalCount": 1,
+        "duplicatesRemoved": 9,
+        "deduplicationRate": "90.0%"
+      },
+      "query_expansion": {
+        "original_query": "how to bake bread beginner guide",
+        "expanded_count": 5,
+        "used_query": "how to bake bread beginner guide"
+      },
+      "localization_applied": false
+    }
+  },
+  "expiry": null
+}

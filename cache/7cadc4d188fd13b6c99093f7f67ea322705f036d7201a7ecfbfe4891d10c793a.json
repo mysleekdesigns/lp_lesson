@@ -1,0 +1,121 @@
+{
+  "value": {
+    "query": "\"next.js\" performance optimization tips",
+    "expanded_queries": [
+      "\"next.js\" performance optimization tips",
+      "next js performance optimization tip",
+      "next js",
+      "next js performance",
+      "js performance"
+    ],
+    "results": [
+      {
+        "title": "How to Optimize Next.js Performance: An In-depth Guide | DebugBear",
+        "link": "https://www.debugbear.com/blog/nextjs-performance",
+        "snippet": "Mar 10, 2025 ... Next.js comes with powerful performance optimizations out of the box. While these built-in features provide a strong starting point, knowing how ...",
+        "displayLink": "www.debugbear.com",
+        "formattedUrl": "https://www.debugbear.com/blog/nextjs-performance",
+        "htmlSnippet": "Mar 10, 2025 <b>...</b> <b>Next.js</b> comes with powerful <b>performance optimizations</b> out of the box. While these built-in features provide a strong starting point, knowing how&nbsp;...",
+        "pagemap": {
+          "metatags": {
+            "title": "How to Optimize Next.js Performance: An In-depth Guide | DebugBear",
+            "description": "Find out why performance matters for your website, what common Next.js performance issues are, and what you can do to fix them.",
+            "image": "https://www.debugbear.com/dimg/2b0f94f4933a3f72ef0284bc204e943e.png",
+            "author": "",
+            "publishedTime": "2025-03-10T00:00:00.000Z",
+            "modifiedTime": "2025-12-09T10:18:31.000Z"
+          },
+          "thumbnail": {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1YuIB9XgrucKu3MYeMdTvW5JbAgY4zDQluraGwdiSunDVaTD1i8vyofI&s",
+            "width": "310",
+            "height": "163"
+          },
+          "image": "https://www.debugbear.com/dimg/2b0f94f4933a3f72ef0284bc204e943e.png"
+        },
+        "metadata": {},
+        "originalIndex": 5,
+        "normalizedUrl": "https://debugbear.com/blog/nextjs-performance",
+        "contentHash": "1100001000100000100000000000000011000010001000001000000000000000",
+        "titleTokens": [
+          "how",
+          "to",
+          "optimize",
+          "next",
+          "js",
+          "performance",
+          "an",
+          "in",
+          "depth",
+          "guide",
+          "debugbear"
+        ]
+      }
+    ],
+    "total_results": "18100000",
+    "search_time": 0.285138,
+    "offset": 0,
+    "limit": 10,
+    "cached": false,
+    "provider": {
+      "name": "crawlforge",
+      "backend": "Google Search",
+      "capabilities": {
+        "requiresApiKey": true,
+        "apiKeyType": "CrawlForge API key",
+        "supportsPagination": true,
+        "supportsLanguageFilter": true,
+        "supportsDateFilter": true,
+        "supportsSiteFilter": true,
+        "supportsFileTypeFilter": true,
+        "supportsSafeSearch": true,
+        "supportsLocalization": true,
+        "supportsCountryTargeting": true,
+        "maxResultsPerRequest": 100,
+        "rateLimit": "Based on your CrawlForge plan",
+        "creditCost": "2 credits per search",
+        "features": [
+          "Google Search results via CrawlForge proxy",
+          "No Google API credentials needed",
+          "Full text search",
+          "Image metadata",
+          "Exact phrase matching",
+          "Boolean operators",
+          "Site-specific search",
+          "File type filtering",
+          "Date range filtering",
+          "Language filtering",
+          "Country targeting",
+          "Safe search",
+          "Localization support",
+          "Related searches",
+          "Rich snippets"
+        ],
+        "benefits": [
+          "Simplified authentication (one API key)",
+          "Unified billing through CrawlForge",
+          "Enterprise-grade reliability",
+          "No Google API quota management",
+          "Built-in rate limiting",
+          "Credit-based pricing"
+        ]
+      }
+    },
+    "localization": null,
+    "processing": {
+      "ranking": null,
+      "deduplication": {
+        "originalCount": 10,
+        "finalCount": 1,
+        "duplicatesRemoved": 9,
+        "deduplicationRate": "90.0%"
+      },
+      "query_expansion": {
+        "original_query": "\"next.js\" performance optimization tips",
+        "expanded_count": 5,
+        "used_query": "\"next.js\" performance optimization tips"
+      },
+      "localization_applied": false
+    }
+  },
+  "expiry": null
+}
